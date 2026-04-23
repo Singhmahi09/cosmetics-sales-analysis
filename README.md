@@ -5,12 +5,20 @@ This project analyzes cosmetics sales data to identify trends, customer preferen
 
 ## 🛠 Tools Used
 - Power BI
+- Excel
 - DAX
 
 ## 📈 Key Insights
 - Identified top-selling product categories
-- Analyzed monthly revenue trends
-- Studied customer purchase behavior
+- Analyzed monthly and yearly sales trends
+- Found customer purchase behavior patterns
 
-## 📂 Files
+## 📂 Files Included
 - Cosmetics_Dashboard.pbix
+- Dataset.xlsx
+
+## 📸 Dashboard Preview
+
+
+## 🚀 Conclusion
+This project helps businesses understand sales performance and make data-driven decisions.
