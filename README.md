@@ -18,6 +18,7 @@ This project analyzes cosmetics sales data to identify trends, customer preferen
 - Dataset.xlsx
 
 ## 📸 Dashboard Preview
+![Dashboard](dashboard.png)
 
 
 ## 🚀 Conclusion
